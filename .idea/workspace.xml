@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2feaff15-3853-487a-9368-b84ac0888299" name="Changes" comment="Task1 Commit">
-      <change afterPath="$PROJECT_DIR$/Task2_Zero_Padding.py" afterDir="false" />
+    <list default="true" id="2feaff15-3853-487a-9368-b84ac0888299" name="Changes" comment="Task2 Commit">
+      <change afterPath="$PROJECT_DIR$/Zero Padding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -94,7 +95,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738736166511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task1 Commit">
+      <option name="closed" value="true" />
+      <created>1738755683479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738755683479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task1 Commit">
+      <option name="closed" value="true" />
+      <created>1738755692930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738755692930</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task2 Commit">
+      <option name="closed" value="true" />
+      <created>1738755816166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738755816166</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
     <MESSAGE value="Task1 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1 Commit" />
+    <MESSAGE value="Task2 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2 Commit" />
   </component>
 </project>
