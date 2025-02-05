@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print(padded_mat)
     cv2.imshow("Final padded Matrix",padded_mat*255)
     cv2.waitKey()
+    cv2.destroyAllWindows()

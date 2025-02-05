@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2feaff15-3853-487a-9368-b84ac0888299" name="Changes" comment="Task1 Commit">
-      <change afterPath="$PROJECT_DIR$/Task2_Zero_Padding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero Padding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zero Padding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ShaheerMukhtiar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShaheerMukhtiar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShaheerMukhtiar/Digital-Image-Processing.git",
-    "accountId": "782c2877-6e56-46a1-aadc-d67b6da31078"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShaheerMukhtiar/Digital-Image-Processing.git&quot;,
+    &quot;accountId&quot;: &quot;782c2877-6e56-46a1-aadc-d67b6da31078&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2sblqNOEp5vbedg4Kwu1MmZdPF4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,6 +49,7 @@
   "keyToString": {
     "Python.Task1-Normalization_Function.executor": "Run",
     "Python.Task2_Zero_Padding.executor": "Run",
+    "Python.Task3.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
